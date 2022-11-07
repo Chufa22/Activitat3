@@ -24,24 +24,36 @@ SMX-B MP08
 ## 3.3.- Al directori Learn more about owncloud hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
 
 ###### ·Quin són els tres tipus de protecció de dades que ofereix Owncloud?
+ Protecció 1: Encryption in Transit
+ Protecció 2a: Encryption at Rest
+ Protecció 2b: Encryption at Rest with Master Key in Hardware Securyty Module (HSM)
+ Protecció 3: End-to-End Encryption
 
 ###### ·Fes una petita descripció de cada un d'ells.
 
 ###### ·Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
+Perquè es facil d'utilitzar. Els usuaris de l'empresa aconsegueix proteccio i productivitat funcions a l'igual que els proveïdors de núvols públics.
 
 ###### ·Això passa a tots els països?
+Si això passa a la majoria de països.
 
 ###### ·Quina és la llicència d'OWncloud Enterprise?
+La llicència per a Owncloud Enterprise és (ownCloud Commercial License).
 
 ###### ·I la d'Owncloud Standard?
+Per a Owncloud Standard és (AGPLv3).
 
 ###### ·Es poden veure videos en Streaming directament des de Owncloud?
+Sí, es poden veure videos en Streming des de Owncloud.
 
 ###### ·Es poden connectar directoris de Google Drive a Owncloud?
+Sí es poden connectar
 
 ###### ·I Dropbox?
+Sí es poden connectar
 
 ###### ·Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
+Sí, compta amb antivirus, es el (ClamAV).
 
 ## 3.4.- Mostra els següents canvis de paràmetres d'usuari:
 
